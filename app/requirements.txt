@@ -1,0 +1,4 @@
+plaintext
+flask
+psycop2-binary
+prometheus-client
